@@ -1,9 +1,11 @@
-# Ignore everything except frontend and backend
+# Ignore everything except frontend, backend, and docs
 *
 !frontend/
 !frontend/**
 !backend/
 !backend/**
+!docs/
+!docs/**
 !.gitignore
 !README.md
 
